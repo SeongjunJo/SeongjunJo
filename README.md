@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! Android 주니어 개발자 조성준입니다 😊
+
+__개발 공부를 시작한지 얼마 되지 않아 GitHub 관리가 많이 미흡합니다 🥲__
+__중요성을 뒤늦게 깨달은 만큼, 열정있게 바꿔나가겠습니다!__
 
 <!--
 **SeongjunJo/SeongjunJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
